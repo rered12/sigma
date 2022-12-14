@@ -1,0 +1,34 @@
+{
+  "banner_admob": "",
+  "inter_admob": "",
+  "reword_admob": "",
+  "sdk_key": "MyR0NzDPxJT10q3PiOd-z_6IXTPbNTnauSsHgUo_AXETtFAWlk0Hm-HPKTnBBXzZ2vFgpbKl5uiMJi2rPODmms",
+  "banner_applovin": "",
+  "inter_applovin": "87f79ffa0fc553e0",
+  "reword_applovin": "552b295a6168eee5",
+  "game_id": "",
+  "banner_unity": "",
+  "inter_unity": "",
+  "reword_unity":"",
+  "banner_fan": "",
+  "inter_fan": "",
+  "reword_fan":"",
+
+  "urlimages":[
+    "https://cdn-www.bluestacks.com/bs-images/SigmaBattleRoyale-1.jpg",
+    "https://cdn-www.bluestacks.com/bs-images/SigmaBattleRoyale-2.jpg",
+    "https://cdn-www.bluestacks.com/bs-images/SigmaBattleRoyale-3.jpg",
+    "https://cdn-www.bluestacks.com/bs-images/SigmaBattleRoyale-4.jpg",
+    "https://cdn-www.bluestacks.com/bs-images/SigmaBattleRoyale-3.jpg",
+    "https://cdn-www.bluestacks.com/bs-images/SigmaBattleRoyale-4.jpg"
+    ],
+"textes":[
+  "SIGMA is a battle royale in which 50 players will fight each other until only one player is left alive. SIGMA mixes the Fortnite graphics with Free Fire-like gameplay, with large drawing distances and simple graphics that allow you to easily spot enemies on the map. In addition, its performance is excellent, running smoothly even on mid-range devices.",
+  "As in other games with similar mechanics, in SIGMA you will start the game in an airplane flying over a map. You can choose to jump wherever you want. After falling, you can start collecting all kinds of items: weapons, vests, helmets, ammunition, first-aid kits, etc. From time to time, boxes fall from the sky, with special loot that will ease winning the game, as it includes better weapons or protection against enemy attacks.",
+  "The controls in SIGMA are very simple. You can move around the map with the left joystick. Next to it, there is the inventory button, which also provides access to a first aid kit to heal yourself. On the right side, there are action buttons, like shooting, aiming, jumping, crouching, lying down, etc. To reload the weapon, just click on the right-corner area. When it comes to aiming, the game assists by bringing the scope closer to the enemy, thereby making it easier to finish them off.",
+  "SIGMA also offers the possibility of checking the map to see where the concentric rings are closing and get an idea of it. You can also know how many players are alive at all times.",
+  "Finally, aside from the battle royale mode, SIGMA has one called Fight Out, in which you can fight other players in 4v4 matches. Character skins are customizable and can be unlocked as you play."
+  ],
+"QuiteTxt":"n"
+ 
+}
